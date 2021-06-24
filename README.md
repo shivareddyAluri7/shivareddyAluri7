@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shivareddyAluri7
-- 👀 I’m interested in Development
+- 👀 I’m interested in web Development
 - 🌱 I’m currently learning Ember js And Rails
 
 <!---
